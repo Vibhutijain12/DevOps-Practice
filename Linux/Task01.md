@@ -19,6 +19,7 @@ This program is no longer needed. Find it and terminate it. Do not delete the lo
 ```shell
 ps -ef | grep python
 ```
+
 <img width="720" height="263" alt="process" src="https://github.com/user-attachments/assets/47fc47d7-6632-4308-ace6-fb603d0012bc" />
 
 * Find the process ID and terminate the process.
@@ -26,8 +27,6 @@ ps -ef | grep python
 <img width="717" height="173" alt="terminate" src="https://github.com/user-attachments/assets/aa450ac5-775c-41d7-9e41-e50ad1732f8a" />
 
 Problem Solved!!!!!
-
-<img width="412" height="456" alt="Awesome" src="https://github.com/user-attachments/assets/e2222b67-38e7-4550-b725-abbd34010a11" />
 
 
 
